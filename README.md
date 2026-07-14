@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm Muhammad Bilal
 
-<!--
-**mbcod3/mbcod3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Frontend Developer with 5+ years building high-performance marketing websites for US healthcare practices — dental clinics, med spas, and aesthetic practices.
 
-Here are some ideas to get you started:
+Most of my production work lives in private client repos, but the results are live: **50+ sites shipped**, typically scoring **90+ on Google PageSpeed**. See them at [mbilal.dev](https://mbilal.dev).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Stack
+
+- **Daily:** Astro · React · TypeScript
+- **Mobile:** React Native · Expo — designed, built, and shipped an iOS app to the App Store
+- **Also:** Gatsby · Node.js · Firebase (Auth, Firestore, Cloud Functions) · Figma-to-code workflows · SEO & Core Web Vitals optimization
+
+## How I work
+
+AI-first. Claude Code is part of my daily development loop:
+
+- **Figma → production:** I drive Claude Code through plan-first, iterative builds to turn designs into pixel-accurate, production-ready Astro sites — at significantly faster build speeds than hand-coding.
+- **Agentic workflows:** longer-running agent loops handle the repetitive layers — component scaffolding, content migration, refactors — while I review every diff before it lands.
+- **Human-owned quality bar:** performance budgets, accessibility, and clean semantics are never delegated. AI accelerates the work; it doesn't lower the standard.
+
+## Selected work
+
+- **[mbilal.dev](https://mbilal.dev)** — portfolio and case studies of healthcare marketing sites
+- **[1Percent Brand](https://mbilal.dev/work/one-percent-brand/)** — two-sided freelance services marketplace, designed, built, and shipped solo to the iOS App Store. Jobs, hiring, Stripe payments, real-time chat, and file delivery from a single cross-platform codebase — React Native (Expo) on a full Firebase backend (Authentication, Firestore, Cloud Functions).
+
+## Reach me
+
+[mbilal.dev](https://mbilal.dev) · [LinkedIn](https://www.linkedin.com/in/bilal-dev/) · hello@mbilal.dev
